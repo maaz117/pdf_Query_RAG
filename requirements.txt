@@ -1,0 +1,10 @@
+fastapi
+pydantic
+transformers
+pyngrok
+nest-asyncio
+uvicorn
+llama_index
+PyPDF2
+accelerate
+bitsandbytes
