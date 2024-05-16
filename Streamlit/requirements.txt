@@ -1,0 +1,13 @@
+streamlit
+pdfplumber
+torch
+transformers
+sentence-transformers
+numpy
+scikit-learn  # Often needed for sentence_transformers
+llama-index
+llama-index-llms-huggingface
+torch
+git+[https://github.com/huggingface/accelerate.git]
+git+[https://github.com/huggingface/transformers.git]
+bitsandbytes
